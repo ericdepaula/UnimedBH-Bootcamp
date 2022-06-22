@@ -2,5 +2,4 @@
 
 ### Aqui terá meu primeiro projeto a respeito deste curso
 
-### Site lindo educativo
-
+### Site em HTML com CSS
