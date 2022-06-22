@@ -1,3 +1,9 @@
-#titulo, .desc {
-	color: blue;
+#titulo, .foot{
+	color: green;
+}
+.link{
+	color: pink;
+}
+.ft{
+	border-radius: 40px;
 }
